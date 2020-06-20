@@ -1,0 +1,23 @@
+//  import variables  
+@import './scss/variable';
+
+//   import common styles  
+@import './scss/common';
+
+//   import header styles
+@import './scss/header';
+
+//   import home page styles
+@import './scss/home';
+
+//   import about page styles
+@import './scss/about';
+
+//   import contact page styles
+@import './scss/contact';
+
+//   import footer styles
+@import './scss/footer';
+
+//   import media queries
+@import './scss/media-queries';
