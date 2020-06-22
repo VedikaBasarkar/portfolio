@@ -60,6 +60,16 @@ h5 {
     color: $primary-color;
 }
 
+.primary-small-font{
+    font-size: 32px;
+    font-weight: bolder;
+    color: $primary-color;
+}
+
+.gray-small-font{
+    font-size: 24px;
+    color: $secondary-color;
+}
 /* preloader */
 
 #preloader {
